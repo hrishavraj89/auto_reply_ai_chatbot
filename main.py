@@ -4,7 +4,7 @@ import time
 import google.generativeai as genai
 
 # Configure your API Key
-genai.configure(api_key="AIzaSyAnXX_6HHbgS8DLqDyPjCpuMZGq0ww6J2M")
+genai.configure(api_key="YOUR API KEY")
 
 print("Starting in 3 seconds... switch to your target screen.")
 time.sleep(3)
